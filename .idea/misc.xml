@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alisson/.gradle/caches/transforms-3/f57edaa196a380d3d23ca77e5fd97b1a/transformed/appcompat-1.4.0/res/drawable/abc_ic_ab_back_material.xml" value="0.22962962962962963" />
+        <entry key="..\:/Users/Alisson/AndroidStudioProjects/MyModuleExample/app/src/main/res/layout/activity_android_jobs_list.xml" value="0.32395833333333335" />
+        <entry key="..\:/Users/Alisson/AndroidStudioProjects/MyModuleExample/app/src/main/res/layout/activity_main.xml" value="0.32395833333333335" />
+        <entry key="..\:/Users/Alisson/AndroidStudioProjects/MyModuleExample/app/src/main/res/layout/item_android_job.xml" value="0.32395833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
