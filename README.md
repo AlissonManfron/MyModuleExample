@@ -1,7 +1,7 @@
 # MyModuleExample
 
 
-Projeto simples para estudar o uso de módularização no Android.
+Projeto simples para estudar o uso de modularização no Android.
 
 
 Artigo de referência:
